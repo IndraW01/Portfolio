@@ -456,6 +456,13 @@ footer p {
   .biodata {
     width: 100%;
   }
+  .bg-active {
+    height: 120vh;
+  }
+  .modal-bg img {
+    width: 300px;
+    border-radius: 10px;
+  }
   table td {
     padding: 10px 10px;
   }
